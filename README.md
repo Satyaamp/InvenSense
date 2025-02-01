@@ -35,7 +35,7 @@ This system helps businesses **save costs**, **avoid overstocking**, and **impro
 | **Database**          | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Cloud**             | ![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
 | **APIs**              | ![Twilio](https://img.shields.io/badge/Twilio-%23F22F46.svg?style=for-the-badge&logo=twilio&logoColor=white) |
-| **Security**          | OAuth 2.0, SSL Encryption |
+| **Security**          | ![OAuth](https://via.placeholder.com/20.png?text=OAuth) OAuth 2.0, ![SSL](https://via.placeholder.com/20.png?text=SSL) SSL Encryption |
 
 ---
 
@@ -122,8 +122,8 @@ Analytics Dashboard → Visualize Metrics → Generate Reports
 ## 👥 **Team Members**
 
 - 👩‍💻 **Sanyukta Kasliwal**
-- 👨‍💻 **Satyan Kumar**
-- 👨‍💻 **Sayantan De**
+- 👨‍💻 **Satyam Kumar** [Github](https://github.com/Satyaamp)
+- 👨‍💻 **Sayantan De** [Github](https://github.com/sayout-de003)
 - 👨‍💻 **Dhanraj Jangid**
 
 ---
